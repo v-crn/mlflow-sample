@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s09900/Code/v-crn/tutorials/mlflow-sample/mlruns/0/c08fe69be35d40a6880f9dffe41a77c8/artifacts
+end_time: 1604045011959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c08fe69be35d40a6880f9dffe41a77c8
+run_uuid: c08fe69be35d40a6880f9dffe41a77c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1604045011923
+status: 3
+tags: []
+user_id: s09900

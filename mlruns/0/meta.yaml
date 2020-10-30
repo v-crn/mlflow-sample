@@ -1,0 +1,4 @@
+artifact_location: file:///Users/s09900/Code/v-crn/tutorials/mlflow-sample/mlruns/0
+experiment_id: '0'
+lifecycle_stage: active
+name: Default
